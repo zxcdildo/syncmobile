@@ -1,7 +1,7 @@
 
 shared.teleport = true
 
-local TPCFrame = CFrame.new(1140.72021484375, 340.1285095214844, -165.75123596191406)--Put a new cframe or cframe property in here
+local TPCFrame = CFrame.new(1140.72021484375, 340.1285095214844, -165.75123596191406)
 local User = game.Players.LocalPlayer.Character.HumanoidRootPart
 local WaitTime = 10 --Make More/Less depending if it works or not
 while shared.teleport do wait()
